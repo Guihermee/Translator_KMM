@@ -65,7 +65,6 @@ kotlin {
             implementation(libs.ktor.client.okhttp)
             implementation(libs.sqldelight.android.driver)
         }
-
     }
 }
 
